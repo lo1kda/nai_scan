@@ -1,0 +1,5 @@
+仅做示例，使用时请全部删除后参照示例格式填写。 Only for example, delete all and fill in yours in the same format.
+每行一个ck。 One cookie per line.
+pt_key=AAJlmCq0ADCzoaRWC3vkg3pMxAG9s11eZsHF8_mV8QiTvLhe3hfd7M-H-L5XDSrNU;pt_pin=jd_5d9ac05c77c9f;
+pt_key=AAJbtjJ_MqLmZE5Ty1R-8aQiWnBIxXNCV2USdD7wOe4;pt_pin=gY1iIl2DzwqEhu;
+pt_key=app_openAAJkpgfPADB5x7nE1Ewd7TFJhaD62OjtSXpi49Z7vepKZcgxxEHlApOjBGmzFkxueuYzfr8p3Bk;pt_pin=jd_6cea603791a9e;
