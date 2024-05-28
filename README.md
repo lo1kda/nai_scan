@@ -1,4 +1,6 @@
 # 奶scan | nai_scan  
+不装了，这个是破解版，我也不是萌大奶    
+欢迎投稿 mailto:lolkda@proton.me  
 一款基于python的自研高性能多线程京东扫线报工具  
 A python-based high-performance multi-thread 京东(JD.Com, Inc) shop activity scan(aka spider)    
   
